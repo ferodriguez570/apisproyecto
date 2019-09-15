@@ -1,0 +1,7 @@
+{
+  "name": "apisproyecto",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
